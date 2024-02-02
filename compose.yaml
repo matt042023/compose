@@ -31,7 +31,7 @@ services:
   app:
     image: mattlheureux/frontexercice
     port: 
-      - 86:80
+      - 90:80
 volumes:
   mongodb_data:
 
